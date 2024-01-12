@@ -15,4 +15,4 @@
 ###### Remove
 ###### Conditional statements
 ###### Comparisons
-###### Logials
+###### Logicals
