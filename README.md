@@ -1,6 +1,6 @@
 # Double-Linked-List
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Arrays/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Double-Linked-List/).
 
 # Concepts used this theme :
 ###### Class
